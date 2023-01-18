@@ -323,7 +323,9 @@ font-size:13px;
     left: 2.5rem;
   }
   p {
-    font-size: 14px;
+    
+    font-size: 12px;
+    padding: 7px 1px;
   }
   .dropdown{
     position: relative;
