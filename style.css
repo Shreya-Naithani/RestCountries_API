@@ -322,7 +322,7 @@ font-size:13px;
     width: 80%;
     left: 2.5rem;
   }
-  p {
+  .dropdown p {
     
     font-size: 12px;
     padding: 7px 1px;
